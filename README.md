@@ -3,7 +3,7 @@
 - 🔭 I’m a Senior Engineering Manager at GitHub working on Copilot  
 - 👯 I’m looking to collaborate on developer-centric AI tools and leadership in AI  
 - 🤔 I’m looking for feedback on my blog [oregand.github.io](https://github.com/Oregand/oregand.github.io)
-- 😍 Former GitLab [C.R.E.D.I.T](#) junkie
+- 😍 Former GitLab [C.R.E.D.I.T](creditvalues.net/) junkie
 - 💬 Ask me about scaling AI infrastructure, leading high-impact teams, and shipping developer-first products  
 - 🌱 I’m currently learning more about human-centered AI design and using [AI outside of code](https://oregand.github.io/blog/how-i-used-ai-to-rebuild-my-shoulder/) 🎸  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/oregand7/)  
