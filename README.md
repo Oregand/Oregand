@@ -1,6 +1,6 @@
 ### Hi, I'm David O'Regan ✨
 
-- 🔭 I’m a Senior Engineering Manager at GitHub working on Copilot  
+- 🔭 Staff Engineering Manager at GitHub working on Copilot  
 - 👯 I’m looking to collaborate on developer-centric AI tools and leadership in AI  
 - 🤔 I’m looking for feedback on my blog [oregand.github.io](https://github.com/Oregand/oregand.github.io)
 - 😍 Former GitLab [C.R.E.D.I.T](creditvalues.net/) junkie
